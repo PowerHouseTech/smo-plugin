@@ -1,0 +1,54 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+
+ */
+
+#ty-popup-modal-header{
+	background: #3f3f37;
+}
+
+#ty-popup-modal-quote {
+    color:  #88b04b;
+    text-align: center;
+
+}
+
+#ty-popup-modal-author {
+	color: white;
+	text-align: center;
+	padding-top: 5px;
+}
+
+#ty-popup-modal-logo {
+	width: 40%;
+	height: 40%;
+	padding-top: 5px;
+	padding-left: 120px;
+	float: left;
+	clear: left;
+	display: block;
+	background: #3f3f37;
+}
+
+#ty-popup-modal-message, #ty-popup-modal-message h6 {
+	text-align: center;
+	background: #494331;
+	color: white;
+	margin: auto;
+}
+
+#ty-popup-modal-button {
+	align-items: center;
+	border-color: #88b04b;
+	color: white;
+	background: #88b04b;
+	border-radius: 50%;
+}
+
+
+#ty-popup-modal-footer {
+	background: #3f3f37;
+	border-top: none;
+	padding-right: 160px;
+}
